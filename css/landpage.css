@@ -1,0 +1,58 @@
+body {
+  background: rgb(243, 206, 255);
+}
+
+#landpage {
+  background: rgb(226, 207, 207);
+}
+
+#landpageBody {
+  border-left: solid black 1px;
+  border-right: solid black 1px;
+}
+
+#headerBeautyHair {
+  background: rgba(0, 0, 0, 0.795);
+
+  border: solid black 1px;
+}
+
+#main-footer {
+  background: rgba(0, 0, 0, 0.795);
+  color: #fff;
+  border-bottom: solid black 1px;
+  border-top: solid black 1px;
+}
+
+#beautyhair_logo {
+  height: 330px;
+  width: 100%;
+}
+
+a {
+  font-weight: bold;
+  color: white;
+}
+
+#cardDark:hover {
+  color: rgb(0, 238, 255);
+  transition: transform 0.1s;
+  transform: scale(1.1);
+}
+
+#cardDanger:hover {
+  color: rgb(0, 0, 0);
+  transition: transform 0.1s;
+  transform: scale(1.1);
+}
+
+#cardAdmin:hover {
+  color: red;
+  transition: transform 0.1s;
+  transform: scale(1.1);
+}
+
+#boxZoom:hover {
+  transition: transform 0.1s;
+  transform: scale(1.06);
+}

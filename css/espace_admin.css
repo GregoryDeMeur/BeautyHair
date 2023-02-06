@@ -1,0 +1,15 @@
+body {
+  background-color: #ebf1f7;
+}
+
+#colorToChangeModal {
+  background-color: #223b64;
+}
+
+#colorToChangeModal:hover {
+  background-color: #061630;
+}
+
+#tinyFont {
+  font-size: 11px;
+}

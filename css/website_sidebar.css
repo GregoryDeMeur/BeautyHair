@@ -1,0 +1,24 @@
+#sidebar {
+  height: 100%; /* 100% Full-height */
+}
+
+/* The sidebar links */
+#sidebar a {
+  padding: 8px 8px 8px 32px;
+
+  font-size: 25px;
+  color: #000000;
+  display: block;
+  transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+#sidebar a:hover {
+  color: #ff0000;
+}
+
+/*
+.modal-backdrop {
+  position: unset !important;
+}
+*/
